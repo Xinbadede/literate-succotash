@@ -1,0 +1,11 @@
+{
+  "appId": "com.lovehelper.companion",
+  "appName": "恋爱助手",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "plugins": {
+    "LocalNotifications": {
+      "iconColor": "#f43f5e"
+    }
+  }
+}
